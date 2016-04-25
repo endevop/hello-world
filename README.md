@@ -1,2 +1,2 @@
 # hello-world
-generic repo
+generic repo for config files etc.
